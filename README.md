@@ -1,7 +1,7 @@
 # Quantifying Energy Burden in the United States
 ### A State-Level Assessment of Electricity Affordability and Climate Impact
 
-This project investigates the energy burden—the percentage of household income spent on electricity—across the United States from 2021 to 2023. Leveraging a unified dataset from the U.S. Energy Information Administration, the U.S. Census Bureau, and the National Oceanic and Atmospheric Administration, this analysis aims to quantify regional disparities, identify key drivers, and provide a foundation for policy interventions aimed at improving energy equity.
+This project investigates the energy burden—the percentage of household income spent on electricity across the United States from 2021 to 2023. Leveraging a unified dataset from the U.S. Energy Information Administration, the U.S. Census Bureau, and the National Oceanic and Atmospheric Administration, this analysis aims to quantify regional disparities, identify key drivers, and provide a foundation for policy interventions aimed at improving energy equity.
 
 ---
 
@@ -16,7 +16,7 @@ Energy burden disproportionately affects low-income households and is a critical
 * __U.S. Energy Information Administration (EIA):__ Monthly residential electricity prices, sales, and customer counts for each U.S. state for the years 2021-2023.
     * Source: [https://www.eia.gov/electricity/data.php#revenue](https://www.eia.gov/electricity/data.php#revenue)
 * __U.S. Census Bureau, American Community Survey (ACS):__ Annual median household income data for each U.S. state for the years 2021-2023.
-    * Source: ([https://www.census.gov/](https://data.census.gov/table/ACSST1Y2023.S1903?q=Median+Household+Income)
+    * Source: [https://www.census.gov/](https://data.census.gov/table/ACSST1Y2023.S1903?q=Median+Household+Income)
 * __National Oceanic and Atmospheric Administration (NOAA):__ Monthly monthly average temperature and Cooling Degree Days (CDD) for each U.S. state for the years 2021-2023.
     * Source: [https://www.noaa.gov/](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/service-api)
 
