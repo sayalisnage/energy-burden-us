@@ -1,7 +1,7 @@
 # Quantifying Energy Burden in the United States
 ### A State-Level Assessment of Electricity Affordability and Climate Impact
 
-This project investigates the energy burden—the percentage of household income spent on electricity across the United States from 2021 to 2023. Leveraging a unified dataset from the U.S. Energy Information Administration, the U.S. Census Bureau, and the National Oceanic and Atmospheric Administration, this analysis aims to quantify regional disparities, identify key drivers, and provide a foundation for policy interventions aimed at improving energy equity.
+This project investigates the energy burden; the percentage of household income spent on electricity across the United States from 2021 to 2023. Leveraging a unified dataset from the U.S. Energy Information Administration, the U.S. Census Bureau, and the National Oceanic and Atmospheric Administration, this analysis aims to quantify regional disparities, identify key drivers, and provide a foundation for policy interventions aimed at improving energy equity.
 
 ---
 
